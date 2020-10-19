@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="clinicagastro" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Documentos\\Visual\ Studio\ 2012\\Projects\\ClinicaGastro\\ClinicaGastro\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\Documentos\\Visual\ Studio\ 2012\\Projects\\ClinicaGastro\\ClinicaGastro\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="gastrodbtest1ConnectionString-Web.config Connection String" description="" value="Data Source=mssql5.gear.host;Initial Catalog=gastrodbtest1;Persist Security Info=True;User ID=gastrodbtest1;Password=prueba$1" tags="">
+    <parameterEntry kind="XmlFile" scope="F:\\Documentos\\Visual\ Studio\ 2012\\Projects\\ClinicaGastro\\ClinicaGastro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='gastrodbtest1ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

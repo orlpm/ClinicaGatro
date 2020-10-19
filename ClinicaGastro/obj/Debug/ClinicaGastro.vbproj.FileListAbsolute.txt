@@ -1,0 +1,51 @@
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.pdb
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.xml
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.Resources.resources
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.GenerateResource.Cache
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.dll
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.xml
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.pdb
+C:\Users\Jom Mijangos\documents\visual studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbprojResolveAssemblyReference.cache
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.pdb
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.xml
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbprojResolveAssemblyReference.cache
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.Resources.resources
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.GenerateResource.Cache
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.dll
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.xml
+C:\Users\Jom\Documents\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.pdb
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.pdb
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.xml
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbprojResolveAssemblyReference.cache
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.Resources.resources
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.GenerateResource.Cache
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.dll
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.xml
+F:\Documentos\Visual Studio 2012\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.pdb
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.pdb
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.xml
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbprojResolveAssemblyReference.cache
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.Resources.resources
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.GenerateResource.Cache
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.dll
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.xml
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.pdb
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\bin\PdfSharp.dll
+C:\Users\casa\Desktop\ClinicaGastro\ClinicaGastro\bin\de\PdfSharp.resources.dll
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll.config
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.dll
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.pdb
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\bin\ClinicaGastro.xml
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\bin\de\PdfSharp.resources.dll
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbprojAssemblyReference.cache
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.Resources.resources
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.GenerateResource.cache
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.CoreCompileInputs.cache
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.vbproj.CopyComplete
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.dll
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.xml
+C:\Users\casa\Documents\Visual Studio 2017\Projects\ClinicaGastro\ClinicaGastro\obj\Debug\ClinicaGastro.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="gastrodbtest1ConnectionString-Web.config Connection String" description="gastrodbtest1ConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=mssql5.gear.host;Initial Catalog=gastrodbtest1;Persist Security Info=True;User ID=gastrodbtest1;Password=prueba$1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\casa\\Desktop\\ClinicaGastro\\ClinicaGastro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='gastrodbtest1ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

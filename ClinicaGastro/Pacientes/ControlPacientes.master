@@ -1,0 +1,16 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/Site1.Master" AutoEventWireup="false" CodeBehind="ControlPacientes.master.vb" Inherits="ClinicaGastro.ControlPacientes" runat="server"%>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MenuContextual" runat="server">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+
+
+<asp:ContentPlaceHolder ID="ContenidoPAcientes" runat="server">
+
+
+        </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoEncuestas" runat="server">
+</asp:Content>

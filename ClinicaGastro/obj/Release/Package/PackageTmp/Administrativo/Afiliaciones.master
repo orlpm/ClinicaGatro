@@ -1,0 +1,20 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/Site1.Master" AutoEventWireup="false" CodeBehind="Afiliaciones.master.vb" Inherits="ClinicaGastro.Afiliaciones" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MenuContextual" runat="server">
+    <asp:Menu ID="Menu2" runat="server" Orientation="Horizontal" >
+        <Items>
+            <asp:MenuItem Text="Consulta de Afiliados" Value="Consulta de Afiliados"></asp:MenuItem>
+            <asp:MenuItem Text="Renovación de Afiliación" Value="Renovación de Afiliación"></asp:MenuItem>
+            <asp:MenuItem Text="Nuevo Afiliado" Value="Nuevo Afiliado" NavigateUrl="~/Administrativo/Nuevaafil.aspx"></asp:MenuItem>
+        </Items>
+    </asp:Menu>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+    <asp:ContentPlaceHolder ID="ContenidoAfiliacion" runat="server">
+
+
+        </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoEncuestas" runat="server">
+</asp:Content>

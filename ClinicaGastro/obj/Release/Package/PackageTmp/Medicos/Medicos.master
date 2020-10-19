@@ -1,0 +1,16 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/Site1.Master" AutoEventWireup="false" CodeBehind="Medicos.master.vb" Inherits="ClinicaGastro.Medicos" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MenuContextual" runat="server">
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+    <script src="Scripts/jquery-3.2.0.js">
+
+    </script>
+    <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+
+
+        </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContenidoEncuestas" runat="server">
+</asp:Content>

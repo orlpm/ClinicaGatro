@@ -1,0 +1,103 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="ClinicaGastro.Site1" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Gastro Quirúrgica</title>
+    
+<link href="App_Themes/Tema1/Estilos1.css" 
+
+rel="stylesheet"/>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="main">
+<div id="header">
+
+</div>
+</div>
+        <div>
+        <div id="cabecera">
+            
+                            <div id="contenidoCabecera" >
+                <div id="BarraHorizontal" >
+                    <div class="menu" runat="server" >
+               <asp:Menu ID="Menu1" runat="server" 
+        Orientation="Horizontal" 
+        >
+                        <Items>
+                            <asp:MenuItem Text="Gastro" Value="Gastro" NavigateUrl="~/Default.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Encuestas" Value="Encuestas">
+                                <asp:MenuItem Text="¿Cómo te enteraste?" Value="¿Cómo te enteraste?" NavigateUrl="/Encuestas/encuesta1.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="GSRS" Value="GSRS" NavigateUrl="/Encuestas/GSRS.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Nutrición" Value="Nutrición" NavigateUrl="/Encuestas/Nnutricional.aspx?id=''"></asp:MenuItem>
+                                <asp:MenuItem Text="Psico Gastro" Value="Psico Gastro" NavigateUrl="~/Encuestas/Psico.aspx?id=''"></asp:MenuItem>
+                                <asp:MenuItem Text="Gastroquirúrgica" Value="Gastroquirúrgica" NavigateUrl="~/Encuestas/gastro.aspx?id=''"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="Pacientes" Value="Pacientes">
+                                <asp:MenuItem Text="Mis Cítas" Value="Cítas"></asp:MenuItem>
+                                <asp:MenuItem Text="Mis Avances" Value="Avances"></asp:MenuItem>
+                                <asp:MenuItem Text="Consulta" Value="Consulta"></asp:MenuItem>
+                                
+                            </asp:MenuItem >
+                            <asp:MenuItem Text="Medicos" Value="Medicos">
+                                <asp:MenuItem Text="Lista de Médicos" Value="Lista de Médicos" NavigateUrl="/Medicos/ListaMedicos.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Notas de Pacientes" Value="Notas de Pacientes"  NavigateUrl="/Pacientes/ListaPacientes.aspx"></asp:MenuItem>
+                            </asp:MenuItem>
+                             
+                            <asp:MenuItem Text="Administrativo" Value="Administrativo">
+                                <asp:MenuItem Text="Control de Citas" Value="Control de Citas"></asp:MenuItem>
+                                <asp:MenuItem Text="Control de Pagos" Value="Control de Pagos"></asp:MenuItem>
+                                <asp:MenuItem Text="Consulta Encuestas de Ingreso" Value="Consulta Encuestas de Ingreso" NavigateUrl="~/EncuestaIngreso.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Afiliaciones" Value="Afiliaciones" NavigateUrl="~/Administrativo/Inicioafil.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Usuarios" Value="Usuarios" NavigateUrl="/Medicos/AltaMedicos.aspx"></asp:MenuItem>
+                            </asp:MenuItem>
+                             
+                           <asp:MenuItem Text="Login" Value="Login" NavigateUrl="/log.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Logout" Value="Logout">
+                                </asp:MenuItem>
+                        </Items>
+                    
+
+                    </asp:Menu>
+                    </div>
+                </div>
+                
+            </div>
+            
+          
+            <asp:ContentPlaceHolder ID="MenuContextual" runat="server">
+       
+        </asp:ContentPlaceHolder>
+        </div>
+            
+        
+         <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        
+             <asp:ContentPlaceHolder ID="ContenidoEncuestas" runat="server">
+       
+      
+      
+        </asp:ContentPlaceHolder>
+
+    </div>
+
+        
+    </form>
+
+    
+    <div id="pie">
+                        <span>© 2017 - Gastro Quirúrgica Private Application</span>
+    </div>
+    <script src="/Scripts/jquery-3.2.0.js"></script>
+    <script src="/Scripts/bootstrap.min.js"></script>
+    
+</body>
+</html>
